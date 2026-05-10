@@ -34,7 +34,8 @@ Key Insights from the Analysis
 * Top Customer Activity Cities: 
   Bangalore – 166,  
   Jaipur – 142,  
-  Pune – 135 
+  Pune – 135
+  
 Summary Findings
 1. Most customer reviews were positive, showing overall customer satisfaction. 
 2. Restaurants generally maintained high ratings, with an average close to 4 stars. 
@@ -43,7 +44,8 @@ Summary Findings
 5. High review counts did not always mean higher ratings. 
 6. Bangalore, Jaipur, and Pune showed the highest customer engagement. 
 7. Negative reviews were commonly linked to poor food quality, delayed delivery, wrong orders, and bad service. 
-8. Data cleaning and sentiment labeling improved dataset quality for SQL analysis and future ML applications. 
+8. Data cleaning and sentiment labeling improved dataset quality for SQL analysis and future ML applications.
+   
 Final Conclusion
 This project shows how customer review data can be converted into business insights using data cleaning, sentiment analysis, SQL queries, and feature engineering. It also highlights the importance of preprocessing in real-world analytics projects.
 
