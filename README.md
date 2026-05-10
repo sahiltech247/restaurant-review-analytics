@@ -32,9 +32,9 @@ Key Insights from the Analysis
 * Most Common Category: Other (357 reviews) 
 * Highest Reviewed Restaurant: The Chocolate Room (11 reviews) 
 * Top Customer Activity Cities: 
-  Bangalore – 166 
-  ,Jaipur – 142 
-  ,Pune – 135 
+  Bangalore – 166,  
+  Jaipur – 142,  
+  Pune – 135 
 Summary Findings
 1. Most customer reviews were positive, showing overall customer satisfaction. 
 2. Restaurants generally maintained high ratings, with an average close to 4 stars. 
