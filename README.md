@@ -73,4 +73,7 @@ Performed:
 
 ---
 
+## Dataset Source
+Dataset taken from Kaggle: Indian Startup Funding
+Used for educational and portfolio analysis purposes only.
 
