@@ -51,9 +51,9 @@ This project shows how customer review data can be converted into business insig
 
 ---
 ## Python and Excel
-Cleaned and standardized dataset
-Handled missing values and corrected data types
-Created derived features for analysis
+-Cleaned and standardized dataset
+-Handled missing values and corrected data types
+-Created derived features for analysis
 
 ## SQL Analysis
 Performed:
