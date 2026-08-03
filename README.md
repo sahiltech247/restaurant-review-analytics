@@ -74,6 +74,11 @@ Performed:
 ---
 
 ## Dataset Source
-Dataset taken from Kaggle: Zomato Cafe Reviews
-Used for educational and portfolio analysis purposes only.
+## Dataset
 
+This project uses the **Zomato Cafe Reviews** dataset by **Juhi Bhojani**.
+
+- **Source:** https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews
+- **License:** Community Data License Agreement – Sharing 1.0 (CDLA-Sharing-1.0)
+
+The dataset was used for educational and portfolio purposes to perform data cleaning, exploratory data analysis (EDA), sentiment analysis, SQL analysis, and Power BI dashboard development.
