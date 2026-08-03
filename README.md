@@ -76,7 +76,7 @@ Performed:
 ## Dataset Source
 ## Dataset
 
-This project uses the **Zomato Cafe Reviews** dataset by **Juhi Bhojani**.
+This project uses the **Zomato Cafe Reviews** dataset.
 
 - **Source:** https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews
 - **License:** Community Data License Agreement – Sharing 1.0 (CDLA-Sharing-1.0)
